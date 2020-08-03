@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+
+- 🔭 I’m currently working on ...
+A: Too many things at once
+
+
+- 👯 I’m looking to collaborate on ...
+ * ZSim
+ 
+ 
+- 😄 Pronouns: FEMALE
+
+
 <!--
 **zontreck/zontreck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
