@@ -7,7 +7,7 @@ A: Too many things at once
 
 
 - 👯 I’m looking to collaborate on ...
-ZSim, and OpenCollar
+
  
  
 - 😄 Pronouns: FEMALE
